@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define SOUND_PATH "/home/joshua/Projects/screamingCompiler/betterG++/" //Change this line to where you are storing the sound files.
+#define SOUND_PATH "" //Change this line to where you are storing the sound files.
 
 using namespace std;
 
